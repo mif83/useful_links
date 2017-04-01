@@ -12,6 +12,8 @@
 ## Шрифты
 - **[fontstorage](https://fontstorage.com/)** - много бесплатных шрифтов
 - **[Google fonts](https://fonts.google.com/)** - бесплатный шрифты от гугл
+- **[fontsquirrel](https://www.fontsquirrel.com/tools/webfont-generator)** - онлайн конвертер шрифтов
+
 
 ## Разное
 - **[devdocs](http://devdocs.io/)** - большая подборка мануалов по разным языкам и фреймворкам в одном месте
