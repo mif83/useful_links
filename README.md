@@ -9,6 +9,10 @@
 - **[Pixabay](https://pixabay.com/)** сервис с бесплатными изображениями высокого качества
 - **[Premiumpixels](http://www.premiumpixels.com/)** бесплатные PSD макеты с элементами дизайна в виде менюшек и т.д.
 
+## Шрифты
+- **[fontstorage](https://fontstorage.com/)** - много бесплатных шрифтов
+- **[Google fonts](https://fonts.google.com/)** - бесплатный шрифты от гугл
+
 ## Разное
 - **[devdocs](http://devdocs.io/)** - большая подборка мануалов по разным языкам и фреймворкам в одном месте
 - **[mapbox](https://www.mapbox.com/)** - продвинутые карты
