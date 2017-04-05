@@ -8,6 +8,7 @@
 
 - **[Pixabay](https://pixabay.com/)** сервис с бесплатными изображениями высокого качества
 - **[Premiumpixels](http://www.premiumpixels.com/)** бесплатные PSD макеты с элементами дизайна в виде менюшек и т.д.
+- **[loremflickr](http://loremflickr.com//)** генерирует случайные картинки
 
 ## Шрифты
 - **[fontstorage](https://fontstorage.com/)** - много бесплатных шрифтов
