@@ -15,7 +15,10 @@
 - **[Google fonts](https://fonts.google.com/)** - бесплатный шрифты от гугл
 - **[fontsquirrel](https://www.fontsquirrel.com/tools/webfont-generator)** - онлайн конвертер шрифтов
 
+## Фреймворки
+- **[uikit](https://getuikit.com/)** - аналог Bootstrap
 
 ## Разное
 - **[devdocs](http://devdocs.io/)** - большая подборка мануалов по разным языкам и фреймворкам в одном месте
 - **[mapbox](https://www.mapbox.com/)** - продвинутые карты
+- **[zty.pe](http://zty.pe/)** - игра, тренировка слепого набора
