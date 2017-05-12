@@ -26,6 +26,7 @@
 - **[zty.pe](http://zty.pe/)** - игра, тренировка слепого набора
 - **[limonte](https://limonte.github.io/sweetalert2/)** - библиотека с красивыми всплывающими окошками(вопрос, предупреждение, ошибка и т.д.)
 - **[toptal](https://www.toptal.com/designers/subtlepatterns/)** - подборка бэкграундов
+- **[particles.js](http://vincentgarreau.com/particles.js/)** - фон на JS (летающие точки соединенные линиями)
 
 ## Адаптивность
 - **[troy](http://troy.labs.daum.net/)** - тестирование сайта на разных устройствах
