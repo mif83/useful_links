@@ -11,6 +11,12 @@
 - **[unsplash](https://unsplash.com/)** сервис с бесплатными изображениями высокого качества
 - **[Premiumpixels](http://www.premiumpixels.com/)** бесплатные PSD макеты с элементами дизайна в виде менюшек и т.д.
 - **[loremflickr](http://loremflickr.com//)** генерирует случайные картинки
+- **[psdrepo](https://psdrepo.com/)** бесплатные PSD макеты
+- **[pexels](https://www.pexels.com/)** бесплатные фотографии
+
+
+## Иконки
+- **[iconmonstr](https://iconmonstr.com/)** бесплатные иконки
 
 ## Шрифты
 - **[fontstorage](https://fontstorage.com/)** - много бесплатных шрифтов
@@ -19,6 +25,7 @@
 
 ## Фреймворки
 - **[uikit](https://getuikit.com/)** - аналог Bootstrap
+- **[purecss](https://purecss.io/)** - CSS фреймворк
 
 ## Разное
 - **[devdocs](http://devdocs.io/)** - большая подборка мануалов по разным языкам и фреймворкам в одном месте
@@ -26,7 +33,9 @@
 - **[zty.pe](http://zty.pe/)** - игра, тренировка слепого набора
 - **[limonte](https://limonte.github.io/sweetalert2/)** - библиотека с красивыми всплывающими окошками(вопрос, предупреждение, ошибка и т.д.)
 - **[toptal](https://www.toptal.com/designers/subtlepatterns/)** - подборка бэкграундов
+- **[thepatternlibrary](http://thepatternlibrary.com/#ripples)** бесплатные бэкграунды
 - **[particles.js](http://vincentgarreau.com/particles.js/)** - фон на JS (летающие точки соединенные линиями)
+- **[с9](https://c9.io/)** -облачная IDE
 
 ## Адаптивность
 - **[troy](http://troy.labs.daum.net/)** - тестирование сайта на разных устройствах
