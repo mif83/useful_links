@@ -34,6 +34,7 @@
 - **[limonte](https://limonte.github.io/sweetalert2/)** - библиотека с красивыми всплывающими окошками(вопрос, предупреждение, ошибка и т.д.)
 - **[toptal](https://www.toptal.com/designers/subtlepatterns/)** - подборка бэкграундов
 - **[thepatternlibrary](http://thepatternlibrary.com/#ripples)** бесплатные бэкграунды
+- **[lea.verou](http://lea.verou.me/css3patterns/)** бесплатные бэкграунды на CSS
 - **[particles.js](http://vincentgarreau.com/particles.js/)** - фон на JS (летающие точки соединенные линиями)
 - **[с9](https://c9.io/)** -облачная IDE
 
