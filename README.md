@@ -37,6 +37,7 @@
 - **[lea.verou](http://lea.verou.me/css3patterns/)** бесплатные бэкграунды на CSS
 - **[particles.js](http://vincentgarreau.com/particles.js/)** - фон на JS (летающие точки соединенные линиями)
 - **[с9](https://c9.io/)** -облачная IDE
+- **[bennettfeely](http://bennettfeely.com)** - CSS фишки, фильтры с картинками, clip-path - фигуры, гамбургер и др.
 
 ## Адаптивность
 - **[troy](http://troy.labs.daum.net/)** - тестирование сайта на разных устройствах
