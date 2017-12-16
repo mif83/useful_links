@@ -41,3 +41,7 @@
 
 ## Адаптивность
 - **[troy](http://troy.labs.daum.net/)** - тестирование сайта на разных устройствах
+
+## Слайдеры и галереи
+- **[siema](https://pawelgrzybek.com/siema/)** - простой и функциональный слайдер vanilaJS + draggable
+- **[lightgallery](https://sachinchoolur.github.io/lightgallery.js/)** - функциональная галерея
