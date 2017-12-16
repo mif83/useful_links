@@ -17,6 +17,7 @@
 
 ## Иконки
 - **[iconmonstr](https://iconmonstr.com/)** бесплатные иконки
+- **[icons8](https://icons8.ru)** бесплатные иконки
 
 ## Шрифты
 - **[fontstorage](https://fontstorage.com/)** - много бесплатных шрифтов
@@ -38,10 +39,24 @@
 - **[particles.js](http://vincentgarreau.com/particles.js/)** - фон на JS (летающие точки соединенные линиями)
 - **[с9](https://c9.io/)** -облачная IDE
 - **[bennettfeely](http://bennettfeely.com)** - CSS фишки, фильтры с картинками, clip-path - фигуры, гамбургер и др.
+- **[100dayscss](https://100dayscss.com)** - CSS фишки.
+- **[colordrop](https://colordrop.io)** - цветовые палитры, подходящии цвета друг к другу
 
 ## Адаптивность
 - **[troy](http://troy.labs.daum.net/)** - тестирование сайта на разных устройствах
+- **[browserling](https://www.browserling.com)** - тестирование сайта на разных браузерах
 
 ## Слайдеры и галереи
 - **[siema](https://pawelgrzybek.com/siema/)** - простой и функциональный слайдер vanilaJS + draggable
 - **[lightgallery](https://sachinchoolur.github.io/lightgallery.js/)** - функциональная галерея
+
+## Аудио
+- **[mynoise](https://mynoise.net)** - аудиозвуки на бэкграунд
+- **[noisli](https://www.noisli.com)** - звуки костра. молнии, ветра и др.
+
+## Попапы модальные окна
+- **[popper](https://popper.js.org)** - попап vanila js
+- **[html5tooltipsjs](http://ytiurin.github.io/html5tooltipsjs/)** - простой попап
+- **[tooltipster](http://iamceege.github.io/tooltipster/)** - попап куча возмоностей, использует jQuery
+- **[vex](http://github.hubspot.com/vex/docs/welcome/)** - модальные окна
+- **[sweetalert2](https://limonte.github.io/sweetalert2/)** - модальные окна для алертов
