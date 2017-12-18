@@ -41,6 +41,10 @@
 - **[bennettfeely](http://bennettfeely.com)** - CSS фишки, фильтры с картинками, clip-path - фигуры, гамбургер и др.
 - **[100dayscss](https://100dayscss.com)** - CSS фишки.
 - **[colordrop](https://colordrop.io)** - цветовые палитры, подходящии цвета друг к другу
+- **[datedropper](http://felicegattuso.com/projects/datedropper/)** - прикольный датапикер
+- **[flatpickr](https://chmln.github.io/flatpickr/examples/)** - простенький датапикер
+- **[medium-editor](https://yabwe.github.io/medium-editor/)** - прилипающийся редактор
+- **[substance](http://substance.io)** - мощный редактор
 
 ## Адаптивность
 - **[troy](http://troy.labs.daum.net/)** - тестирование сайта на разных устройствах
